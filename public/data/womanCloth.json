@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Блузка",
+      "category": "blouses",
+      "price": 19950,
+      "img": "https://www.kivano.kg/images/product/119603/full/1680521211_54618700.jpg",
+      "desc": "Размеры 40-50 Расцветка все цвета радуги"
+    },
+    {
+      "id": 2,
+      "title": "Куртки",
+      "category": "jackets",
+      "price": 28700,
+      "img": "https://www.kivano.kg/images/product/118793/full/1679160263_12359900.jpg",
+      "desc": "Размеры 40-50 Материал из синтепона. Легкий и теплый"
+    },
+    {
+      "id": 3,
+      "title": "Обувь",
+      "category": "shoes",
+      "price": 19950,
+      "img": "https://www.kivano.kg/images/product/109071/full/1658516810_62408600.jpg",
+      "desc": "Размеры 36-40 Все цвета радуги "
+    },
+
+    {
+      "id": 4,
+      "title": "Блузка",
+      "category": "blouses",
+      "price": 19950,
+      "img": "https://www.kivano.kg/images/product/119603/full/1680521211_54618700.jpg",
+      "desc": "Размеры 40-50 Расцетка все цвета радуги"
+    },
+    {
+      "id": 5,
+      "title": "Куртки",
+      "category": "jackets",
+      "price": 28700,
+      "img": "https://www.kivano.kg/images/product/118793/full/1679160263_12359900.jpg",
+      "desc": "Размеры 40-50 Материал из синтепона. Легкий и теплый"
+    },
+    {
+      "id": 6,
+      "title": "Обувь",
+      "category": "shoes",
+      "price": 19950,
+      "img": "https://www.kivano.kg/images/product/109071/full/1658516810_62408600.jpg",
+      "desc": "Размеры 36-40 Все цвета радуги "
+    }
+
+  ]

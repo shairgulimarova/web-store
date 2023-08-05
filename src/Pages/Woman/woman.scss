@@ -1,0 +1,55 @@
+.woman{
+    &__container{
+        margin: 0 auto; 
+        max-width: 1140px;
+    }
+    &__products{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;      
+    }
+    &__product{
+        width: 300px;
+        margin: 30px; 
+        padding: 20px;
+        background-color: rgb(255, 170, 170);
+        border-radius: 10px;  
+
+        &Info{
+        min-height: 500px;
+        }
+
+        &Shopping, &Price{
+            float: right;
+        } 
+
+        &Img{
+        width: 100%;
+        height:300px;
+        object-fit: contain;
+        }   
+
+        &Link{
+        background-color: #fff;
+        color:black;
+        padding: 5px 15px;
+        border-radius: 5px;
+        }
+    }
+       
+    &__buttons{
+        margin: 0 auto;
+        text-align: center;
+    }
+    &__button{
+        padding: 10px;
+        width: 150px;
+        border-radius: 10px;
+        background-color:  rgb(255, 170, 170);      
+        color: rgb(10, 10, 10);;
+        font-weight: 700;
+        font-size: 18px;
+        margin-right: 20px;
+    }
+}

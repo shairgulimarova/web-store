@@ -1,0 +1,38 @@
+.about{
+  &__banner{
+    margin: 0 auto;
+    background: url('../../images/banner-img.png');
+    width: 100%;
+    height:800px;
+    background-size: cover;
+    background-position: center;
+    position: relative;  
+
+
+    &::after{
+      content: '"красиВАУ" одевает Вас красиВАУ!';
+      position:absolute;
+      width: 600px;
+      color:#c90505;
+      font-weight: 600;
+      font-size: 2em;
+      top:150px;
+      left:290px
+    }
+    
+    &::before{
+      content: 'Есть скидка и рассрочка';
+      position:absolute;
+      width: 700px;
+      color: #c90505;
+      font-weight: 600;
+      font-size: 1.2em;
+      top:290px;
+      left:290px
+    }
+  }
+  
+ 
+
+  
+}
